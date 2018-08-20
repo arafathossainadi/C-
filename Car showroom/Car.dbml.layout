@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Car">
+  <DataContextMoniker Name="/CarDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6328cdf5-5e54-49e4-999d-2082b0f22a1e" absoluteBounds="0.875, 0.75, 2, 1.6801985950271288">
+      <DataClassMoniker Name="/CarDataContext/Catagory_Table" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4a264bf-3490-4101-a5f5-4ef33268c2d4" absoluteBounds="0.89, 1.21, 1.9700000000000002, 1.1201985950271287" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c9f24bdf-3d90-4583-9a38-99bef8664883" absoluteBounds="3.75, 2.75, 2, 2.31252282867829">
+      <DataClassMoniker Name="/CarDataContext/VehicleInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30073c23-7d32-46ab-a0f9-27b5a75471e9" absoluteBounds="3.7649999999999997, 3.21, 1.9700000000000002, 1.75252282867829" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cbaf2391-ddd7-4ffb-993a-36cde090b33d" absoluteBounds="8, 3, 2, 2.5232975732286764">
+      <DataClassMoniker Name="/CarDataContext/RegistationTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ca3a09c-3d62-4ca3-ab7b-c8d601cca9e5" absoluteBounds="8.015, 3.46, 1.9700000000000002, 1.963297573228677" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3056c9f9-ed49-4487-b212-238e39ddabae" absoluteBounds="3.875, 0.5, 2, 1.8909733395775157">
+      <DataClassMoniker Name="/CarDataContext/CustomerTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ecfc90d1-5e83-495d-b7fe-14202a5c1bb7" absoluteBounds="3.8899999999999997, 0.96, 1.9700000000000002, 1.3309733395775159" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f80c2ec1-852b-474d-b8c8-8cd72370d3ac" absoluteBounds="0.75, 2.625, 2, 2.9448470623294511">
+      <DataClassMoniker Name="/CarDataContext/OrderTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b764f3dd-d886-40e3-983e-eb9ac002b5c2" absoluteBounds="0.76500000000000012, 3.085, 1.9700000000000002, 2.3848470623294511" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
